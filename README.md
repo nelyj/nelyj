@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Nelson's github stats](https://github-readme-stats.vercel.app/api?username=nelyj&hide=contribs,prs,issues&count_private=true&show_icons=true)
 
 
